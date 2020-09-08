@@ -1,0 +1,63 @@
+body{ 
+    background : grey ;
+}
+.page{ 
+    border : 5px solid blue ; 
+    border-radius: 10px ;
+    margin : auto ; 
+    padding :5px ;
+    width : 900px;
+    background :white ; 
+    font-family: roboto;
+}
+
+h1{ 
+    font-size : 40px;
+}
+
+h1,h2{ 
+    color :black ;
+    font-family : verdana;
+}
+
+h2{ 
+    color:green;
+}
+
+h2:hover{ 
+    color:green; 
+}
+
+.header{
+    text-align:center;
+}
+
+.photo{
+    text-align: center;
+}
+
+.profession{ 
+    color: royalblue;
+}
+a:active{
+    color:red; 
+}
+th{ 
+    background: green;
+}
+label{
+    color: skyblue;
+    font-weight: 900;
+}
+.langues{ 
+    font-weight: bold;
+
+}
+h3{ 
+    display:inline;
+}
+.aboutme{ 
+    border:2px dotted green;
+    padding: 5px;
+    margin: auto ;
+}
